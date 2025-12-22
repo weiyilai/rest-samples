@@ -324,7 +324,7 @@ class DemoGeneric {
       'hexBackgroundColor': '#4285f4',
       'logo': {
         'sourceUri': {
-          'uri': 'https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg'
+          'uri': 'https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg'
         },
         'contentDescription': {
           'defaultValue': {
@@ -608,7 +608,7 @@ class DemoGeneric {
       'hexBackgroundColor': '#4285f4',
       'logo': {
         'sourceUri': {
-          'uri': 'https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg'
+          'uri': 'https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg'
         },
         'contentDescription': {
           'defaultValue': {
@@ -821,7 +821,7 @@ class DemoGeneric {
         'hexBackgroundColor': '#4285f4',
         'logo': {
           'sourceUri': {
-            'uri': 'https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg'
+            'uri': 'https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg'
           },
           'contentDescription': {
             'defaultValue': {

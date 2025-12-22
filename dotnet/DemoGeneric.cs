@@ -410,7 +410,7 @@ class DemoGeneric
       {
         SourceUri = new ImageUri
         {
-          Uri = "https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg"
+          Uri = "https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg"
         },
         ContentDescription = new LocalizedString
         {
@@ -765,7 +765,7 @@ class DemoGeneric
       {
         SourceUri = new ImageUri
         {
-          Uri = "https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg"
+          Uri = "https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg"
         },
         ContentDescription = new LocalizedString
         {
@@ -1087,7 +1087,7 @@ class DemoGeneric
         {
           SourceUri = new ImageUri
           {
-            Uri = "https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg"
+            Uri = "https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg"
           },
           ContentDescription = new LocalizedString
           {

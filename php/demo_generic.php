@@ -349,7 +349,7 @@ class DemoGeneric
       'hexBackgroundColor' => '#4285f4',
       'logo' => new Image([
         'sourceUri' => new ImageUri([
-          'uri' => 'https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg'
+          'uri' => 'https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg'
         ]),
         'contentDescription' => new LocalizedString([
           'defaultValue' => new TranslatedString([
@@ -623,7 +623,7 @@ class DemoGeneric
       'hexBackgroundColor' => '#4285f4',
       'logo' => new Image([
         'sourceUri' => new ImageUri([
-          'uri' => 'https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg'
+          'uri' => 'https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg'
         ]),
         'contentDescription' => new LocalizedString([
           'defaultValue' => new TranslatedString([
@@ -865,7 +865,7 @@ class DemoGeneric
         'hexBackgroundColor' => '#4285f4',
         'logo' => new Image([
           'sourceUri' => new ImageUri([
-            'uri' => 'https://storage.googleapis.com/wallet-lab-tools-codelab-artifacts-public/pass_google_logo.jpg'
+            'uri' => 'https://developers.google.com/static/wallet/site-assets/images/pass-builder/pass_google_logo.jpg'
           ]),
           'contentDescription' => new LocalizedString([
             'defaultValue' => new TranslatedString([
